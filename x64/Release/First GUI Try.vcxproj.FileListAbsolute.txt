@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Release\First GUI Try.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Release\FirstGUITry.MainEnterForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Release\FirstGUITry.IntegralForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Release\FirstGUITry.RegistrationForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Release\First GUI Try.vcxproj.GenerateResource.cache

@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\First GUI Try.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\FirstGUITry.DeterminantForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\FirstGUITry.LinearEquationForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\FirstGUITry.MainEnterForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\FirstGUITry.IntegralForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\FirstGUITry.MatrixForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\FirstGUITry.MenuForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\FirstGUITry.RegistrationForm.resources
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\x64\Debug\First GUI Try.vcxproj.GenerateResource.cache

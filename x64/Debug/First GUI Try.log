@@ -1,0 +1,104 @@
+﻿  LinearEquationForm.cpp
+  MainEnterForm.cpp
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(383,35): warning C4101: 'Non': unreferenced local variable
+  (compiling source file 'LinearEquationForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(451,22): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'LinearEquationForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(529,28): warning C4101: 'NonNumParameters': unreferenced local variable
+  (compiling source file 'LinearEquationForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(551,21): warning C4101: 'SmallNum': unreferenced local variable
+  (compiling source file 'LinearEquationForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\MatrixForm.h(294,29): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\MatrixForm.h(428,28): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\MatrixForm.h(461,27): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(263,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(263,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(287,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(287,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(290,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(404,27): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(422,27): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(383,35): warning C4101: 'Non': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(451,22): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(529,28): warning C4101: 'NonNumParameters': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(551,21): warning C4101: 'SmallNum': unreferenced local variable
+  (compiling source file 'MainEnterForm.cpp')
+  
+  MenuForm.cpp
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\MatrixForm.h(294,29): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\MatrixForm.h(428,28): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\MatrixForm.h(461,27): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(263,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(263,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(287,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(287,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(290,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(404,27): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\DeterminantForm.h(422,27): warning C4101: 'WrongFormat': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(383,35): warning C4101: 'Non': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(451,22): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(529,28): warning C4101: 'NonNumParameters': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\LinearEquationForm.h(551,21): warning C4101: 'SmallNum': unreferenced local variable
+  (compiling source file 'MenuForm.cpp')
+  
+  Generating Code...
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\MatrixForm.h(297,1): warning C4715: 'FirstGUITry::MatrixForm::SumSub': not all control paths return a value
+C:\Users\USER\source\repos\First GUI Try\First GUI Try\MatrixForm.h(297,1): warning C4715: 'FirstGUITry::MatrixForm::SumSub': not all control paths return a value
+  DeterminantForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  First GUI Try.vcxproj -> C:\Users\USER\source\repos\First GUI Try\x64\Debug\First GUI Try.exe
